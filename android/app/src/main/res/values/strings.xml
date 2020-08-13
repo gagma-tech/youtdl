@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Yout Down</string>
+    <string name="title_activity_main">Yout Down</string>
+    <string name="package_name">com.youtdl.app</string>
+    <string name="custom_url_scheme">com.youtdl.app</string>
+    <string name="admob_app_id">ca-app-pub-9997110645195662~4872808371</string>
+</resources>

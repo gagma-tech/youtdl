@@ -1,0 +1,14 @@
+{
+  "appId": "com.youtdl.app",
+  "appName": "Yout Down",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "linuxAndroidStudioPath": "/home/jamal/Downloads/android-studio/bin/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

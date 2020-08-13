@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114146362953",
+    "firebase_url": "https://jamal-gagma.firebaseio.com",
+    "project_id": "jamal-gagma",
+    "storage_bucket": "jamal-gagma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114146362953:android:072ad5e853256f11dd6198",
+        "android_client_info": {
+          "package_name": "com.youtdl.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114146362953-gj57ufvss8ss36h2afkp9uhikujp3957.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqBJ6F8V_wzHTYbZBRd3NrSmx9pKF6J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114146362953-gj57ufvss8ss36h2afkp9uhikujp3957.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
